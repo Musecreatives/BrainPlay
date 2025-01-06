@@ -1,0 +1,1 @@
+ C:\\Users\\admin\\Documents\\Developer\\brainplay\\.dart_tool\\flutter_build\\f3dc6f5230c3ee351a7db820d9fb21d2\\native_assets.yaml: 
